@@ -1,0 +1,29 @@
+body{
+       background:#d6c9c7;
+     }
+
+div{
+      width:500px;
+      margin: auto;
+      
+      
+    }
+#name{
+      text-align:center;
+      width:500px;
+      height: 50px;
+      margin: auto;
+      border: 2px solid white;
+
+      
+    }
+#and{
+      text-align:center;
+      width:500px;
+      height: 50px;
+      margin: auto;
+      border: 2px solid white;
+      margin-top:10px;
+      
+    }
+
