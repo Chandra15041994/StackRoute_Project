@@ -1,0 +1,162 @@
+.header {
+    width:99%;
+    height:150px;
+    background-color:#303030;
+    text-shadow: 5px 10px 10px white;
+    font-family:helvetica;
+    text-decoration: all;
+    text-align: center;
+    text-rendering: auto;
+    font-size:100px;
+    color:white; 
+    position: fixed;
+    text-indent: 10px;
+    letter-spacing: 1px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.header {
+     top:0px;
+}
+.header .under_header {
+    width:20%;
+    height: 150px;
+    float:left;
+}
+
+.header .under_header img {
+
+    width:100%;
+    height:100%;
+    align-content: left;
+
+}
+
+ 
+ .nav  {
+    width:100%;
+    height:25px;  
+    text-align: right;
+    word-spacing: 12px;
+
+    background-color:none ;
+    font-family: sans-serif;    
+    position:fixed;      
+   }
+   
+
+  .nav, ul, li, a {      
+      display: inline-block;
+      font-size: 18px;
+      text-decoration:none;
+      font-family: sans-serif;
+      text-shadow: 2px 1px 2px white;
+       color:white;
+       padding: 25px 15px;    
+   }
+
+  li{
+
+    border-color:white;
+   }
+
+ .poster {
+      width: 100%;
+ }
+ 
+
+ .Bollywood figure a img {
+          image-rendering: optimizeQuality;
+          width: 100%;
+          float: left;
+          max-width: 500px;
+          min-width: 300px;
+          margin-top:90px;
+          height:400px; 
+          text-align: center;
+          
+      }
+
+.Hollywood figure a img {
+          image-rendering: optimizeQuality;
+          width: 100%;
+          max-width: 500px;
+          min-width: 300px;
+          float: left;
+          height: 400px;
+          margin-top:90px;
+          text-align: center;
+          
+      }
+
+.Punjabi figure a img {
+          image-rendering: optimizeQuality;
+          width: 100%;
+          max-width: 500px;
+          min-width: 200px;
+          float:left;
+          height: 400px;
+          margin-top:90px;
+          text-align: center;
+          
+      }
+    
+
+  .hero-unit {
+    padding: 60px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    color: inherit;
+    background-color: #303030;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.hero-unit img{
+     width:100%;
+
+}
+
+.Punjabi figure figcaption {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Hollywood figure figcaption {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Bollywood figure figcaption {
+    text-align: center;
+    font-family: sans-serif;
+}
+footer {
+   
+    width:100%;
+    height:55px;
+    background-color:#303030;
+    text-shadow: 1px 1px 1px white;
+    font-family:sans-serif;
+    font-size:10px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;  
+    color:black;
+    position:absolute;
+  
+  }
+
+
+footer a img {
+    width:15px;
+    height: 15px;
+   display: inline;
+    
+    
+
+}
